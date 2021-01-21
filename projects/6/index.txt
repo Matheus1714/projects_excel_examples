@@ -1,0 +1,5 @@
+1 - Entre em https://myaccount.google.com/ e autorize o envio de email automático.
+
+2 - Usar objeto Word no VBA
+
+Alt + F11 -> Ferramentas -> Referências -> Microsoft Word 16.0 Object Library
